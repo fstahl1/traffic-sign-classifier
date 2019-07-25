@@ -1,0 +1,3 @@
+format:
+date_classsize-epochs-batchsize-learningrate-maxvalidaccuracy-atepoch
+date_classsize-transperc-epochs-batchsize-learningrate-maxvalidaccuracy-atepoch
